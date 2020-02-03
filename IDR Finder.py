@@ -1,9 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[3]:
-
-
 #import regular expression and pandas
 import re
 import pandas as pd
