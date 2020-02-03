@@ -42,7 +42,7 @@ data_Frame['IDR'] = data['Sequence'].apply(find_IDR)
 data_Frame.to_csv("output.csv")
 
 
-# In[ ]:
+
 
 
 
